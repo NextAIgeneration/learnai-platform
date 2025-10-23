@@ -519,7 +519,7 @@ export default function SuiviCours() {
             }}>
               <h3 style={{ color: '#3498DB', marginBottom: '25px', fontSize: '1.5em' }}>💡 Avantages Clés</h3>
               <ul style={{ color: '#c0c0c0', lineHeight: 2.2, paddingLeft: '25px', fontSize: '1.1em', textAlign: 'left' }}>
-                <li><strong style={{ color: '#3498DB' }}>Sync Auto:</strong> Matière disponible <5min après cours</li>
+                <li><strong style={{ color: '#3498DB' }}>Sync Auto:</strong> Matière disponible &lt;5min après cours</li>
                 <li><strong style={{ color: '#3498DB' }}>Contextuel:</strong> 95% questions alignées chapitre actuel</li>
                 <li><strong style={{ color: '#3498DB' }}>Privacy:</strong> 100% local (BelgBERT + Ollama)</li>
                 <li><strong style={{ color: '#3498DB' }}>Performance:</strong> +18% note moyenne validé</li>
