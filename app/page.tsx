@@ -38,7 +38,7 @@ export default function Home() {
           WebkitTextFillColor: 'transparent',
           marginBottom: '20px',
           fontWeight: 800,
-          textShadow: '0 4px 20px rgba(52, 152, 219, 0.15), 0 8px 40px rgba(52, 152, 219, 0.1)'
+          textShadow: '0 4px 20px rgba(255, 152, 0, 0.25), 0 8px 40px rgba(255, 152, 0, 0.15)'
         }}>
           📚 LearnAI Platform
         </h1>
